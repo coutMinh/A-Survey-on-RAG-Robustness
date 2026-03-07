@@ -157,7 +157,14 @@ This repository maintains a paper list on **robustness of RAG**: attack objectiv
 
 ### 👥 Contributors
 
-<!-- Add contributor avatars here, e.g. [![Author](https://github.com/username.png?size=64)](https://github.com/username) -->
+<p align="left">
+  <a href="https://github.com/coutMinh"><img src="https://github.com/coutMinh.png?size=64" width="64" height="64" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="coutMinh" /></a>
+  <a href="https://github.com/CaptainCuong"><img src="https://github.com/CaptainCuong.png?size=64" width="64" height="64" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="CaptainCuong" /></a>
+  <a href="https://github.com/nguyentuc"><img src="https://github.com/nguyentuc.png?size=64" width="64" height="64" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="nguyentuc" /></a>
+  <a href="https://github.com/suzhentxt"><img src="https://github.com/suzhentxt.png?size=64" width="64" height="64" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="suzhentxt" /></a>
+  <a href="https://github.com/minngh"><img src="https://github.com/minngh.png?size=64" width="64" height="64" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="minngh" /></a>
+  <a href="https://github.com/kien206"><img src="https://github.com/kien206.png?size=64" width="64" height="64" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="kien206" /></a>
+</p>
 
 ### 🎉 How to contribute
 
